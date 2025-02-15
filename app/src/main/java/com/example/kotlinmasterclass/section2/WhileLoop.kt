@@ -69,3 +69,7 @@ fun whileLoop6(input: String) {
 }
 
 fun condition(number: Int) = number <= 100
+
+fun enterYourName(name: String) {
+    println(name)
+}
