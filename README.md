@@ -38,13 +38,13 @@ This course covers Kotlin programming from beginner to advanced topics, includin
 ```
 kotlin-masterclass/
 ├── src/
-│   ├── basics/                 # Basic Kotlin programs
-│   ├── oop/                    # Object-Oriented Programming examples
-│   ├── functional/             # Functional programming samples
-│   ├── android-projects/       # Android projects and apps
-│   ├── coroutines/             # Coroutines and multithreading examples
-│   ├── collections/            # Kotlin collections and null safety examples
-│   └── exercises/              # Exercises and challenges
+│   ├── section2/               # Kotlin Basics
+│   ├── section3/               # Introducing with Objects
+│   ├── section4/               # Usability
+│   ├── section5/               # Functional Programming
+│   ├── section6/               # Object-Oriented Programming
+│   ├── section7/               # Exception Handling
+│   └── section8/               # Exercises and challenges
 ├── README.md                   # Project README file
 └── LICENSE                     # License for the repository
 ```
