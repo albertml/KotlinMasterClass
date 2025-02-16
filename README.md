@@ -24,121 +24,63 @@ This course covers Kotlin programming from beginner to advanced topics, includin
 
 #### What you’ll learn:
 
-What you’ll learn:
-
-Variables
-
-Data Types
-
-Functions
-
-Default and Named Arguments
-
-if Expressions
-
-String Templates
-
-Tripple-Quoted Strings
-
-While Loop
-
-For Loop
-
-Ranges
-
-Expressions
-
-Statements
-
-Classes
-
-Properties
-
-Constructors
-
-Visibility Modifiers
-
-Packages
-
-Imports
-
-Lists
-
-varargs
-
-Sets
-
-Maps
-
-Property Accessors
-
-Extension Functions
-
-Overloading
-
-when Expression
-
-Enum Classes
-
-Data Classes
-
-Destructing Declarations
-
-Nullable Types
-
-Safe Calls
-
-Elvis Operator
-
-Generics
-
-Extension Properties
-
-Lambdas
-
-Collections
-
-Member References
-
-Higher-Order Functions
-
-Sequences
-
-Local Functions
-
-Interfaces
-
-Sealed Interfaces
-
-Inheritance
-
-Abstract Classes
-
-Upcasting and Downcasting
-
-Composition
-
-Class Delegation
-
-Sealed Classes
-
-Inner Classes
-
-Nested Classes
-
-Object
-
-Companion Object
-
-Exceptions
-
-Check Instructions
-
-Unit Testing
-
-Build Tic-Tac-Toe Game
-
-And more...
+- Variables
+- Data Types
+- Functions
+- Default and Named Arguments
+- if Expressions
+- String Templates
+- Tripple-Quoted Strings
+- While Loop
+- For Loop
+- Ranges
+- Expressions
+- Statements
+- Classes
+- Properties
+- Constructors
+- Visibility Modifiers
+- Packages
+- Imports
+- Lists
+- varargs
+- Sets
+- Maps
+- Property Accessors
+- Extension Functions
+- Overloading
+- when Expression
+- Enum Classes
+- Data Classes
+- Destructing Declarations
+- Nullable Types
+- Safe Calls
+- Elvis Operator
+- Generics
+- Extension Properties
+- Lambdas
+- Collections
+- Member References
+- Higher-Order Functions
+- Sequences
+- Local Functions
+- Interfaces
+- Sealed Interfaces
+- Inheritance
+- Abstract Classes
+- Upcasting and Downcasting
+- Composition
+- Class Delegation
+- Sealed Classes
+- Inner Classes
+- Nested Classes
+- Object
+- Companion Object
+- Exceptions
+- Check Instructions
+- Unit Testing
+- Build Tic-Tac-Toe Game
+- And more...
 
 ---
 
