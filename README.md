@@ -88,7 +88,7 @@ This course covers Kotlin programming from beginner to advanced topics, includin
 
 1. Clone this repository:
    ```bash
-   git clone https://gitlab.com/your-username/kotlin-masterclass.git
+   [git clone https://gitlab.com/your-username/kotlin-masterclass.git](https://github.com/albertml/KotlinMasterClass.git)
    ```
 2. Open the project in [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) or your preferred Kotlin IDE.
 3. Run the Kotlin scripts or build Android projects as needed.
